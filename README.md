@@ -17,6 +17,10 @@ class MyService implements ServiceContract
 
 ## Changelog
 
+### v1.0.1 - 2019-12-03
+
+- Remove required args for register
+
 ### v1.0 - 2019-12-03
 
 - Initial release
