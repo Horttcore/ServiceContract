@@ -3,5 +3,5 @@ namespace RalfHortt\ServiceContracts;
 
 interface ServiceContract
 {
-    public function register(): void;
+    public function register();
 }
